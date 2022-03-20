@@ -1,8 +1,9 @@
+---
 layout: post
 title: "How to Create a Destination NAT on a Juniper SRX"
 date: YYYY-MM-DD hh:mm:ss -0000
 categories: JUNIPER 
-
+---
 Use a destination NAT or _DNAT_ to send traffic destined to one endpoint to different endpoint IP without user intervention. This is useful in cases where the destination endpoint IP was changed and you do not want to change the statically set old IP on many devices. A DNAT can be a stopgap until the static IP is manually set on all devices then the DNAT can be removed.
 
 ```sh
