@@ -3,16 +3,28 @@ layout: page
 title: About
 permalink: /about/
 ---
+I have over 15 years of IT expereince working in many different roles, including, help desk, field services, data analyst, and network engineer. I am passiona
+te about what I do and want to share what I have learned to help others in this
+ journey of self-improvement.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Certifications: 
+- CCNA
+- PCNSA      
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# Experience: 
+#### _Firewalls:_
+- Cisco ASA
+- Juniper SRX
+- Palo Alto 
+ ### _PKI:_ 
+-  Venafi
+- DigiCert
+- Microsoft CA
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+#### _Proxy (SSLi):_ 
+- F5
+- A10
 
-
-[jekyll-organization]: https://github.com/jekyll
+# Currently Learning:
+- Azure Cloud Fundamentals
+- PCNSE 
