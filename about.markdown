@@ -15,15 +15,16 @@ te about what I do and want to share what I have learned to help others in this
 #### _Firewalls:_
 - Cisco ASA
 - Juniper SRX
-- Palo Alto 
+- Palo Alto
+ 
 #### _PKI:_ 
--  Venafi
+- Venafi
 - DigiCert
 - Microsoft CA
 
 #### _Proxy (SSLi):_ 
-- F5
-- A10
+- F5 Networks
+- A10 Networks
 
 # Currently Learning:
 - Azure Cloud Fundamentals
