@@ -28,7 +28,7 @@ twitter_username: willthornton3rd
 github_username:  willthorntoncodes
 
 # Build settings
-theme: jekyll-theme-architect
+theme: minima
 plugins:
   - jekyll-feed
 
