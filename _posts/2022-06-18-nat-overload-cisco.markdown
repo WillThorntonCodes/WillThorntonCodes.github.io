@@ -42,7 +42,7 @@ R1(config)#ip route 0.0.0.0 0.0.0.0 192.168.122.1
 
 NAT statement that puts it all together
 ```sh
-ip nat inside source list 10 interface FastEthernet0/0 overload
+R1(config)#ip nat inside source list 10 interface FastEthernet0/0 overload
 ```
 
 This last statement says to NAT any outgoing traffic that matches the access-list called "10" and use outside interface FastEthernet0/0 to egress. The overload flag will use Port Address Translation to enable the many-to-one connection.
